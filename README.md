@@ -1,2 +1,3 @@
-# compozart
-AI that generates note sheets
+# Compozart
+
+AI that generate music sheets
